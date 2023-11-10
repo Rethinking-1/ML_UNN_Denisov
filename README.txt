@@ -1,2 +1,2 @@
 Датасет
-https://www.kaggle.com/datasets/sohommajumder21/appliances-energy-prediction-data-set
+https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
